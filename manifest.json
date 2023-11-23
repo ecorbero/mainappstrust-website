@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#0175C2",
-    "description": "Som una jove companyia que ha sorgit al districte 22@ del Poblenou, Barcelona. La nostra principal àrea d'expertesa és el desenvolupament de videojocs i aplicacions per a dispositius mòbils. Disposem d'un equip reduït, però altament eficient, format per professionals especialitzats en disseny i programació per a dispositius iPhone i Android.\n\nLa nostra missió és crear aplicacions i jocs innovadors que responguin a necessitats que actualment no estan cobertes pel mercat. Per aconseguir-ho, mantenim un enfocament constant en la rapidesa de producció dels nostres productes sense comprometre la qualitat. Busquem la perfecció en cada detall, assegurant-nos que cada aplicació i joc que desenvolupem compleixi amb els estàndards més elevats.",
+    "description":"We are a young company based in the 22@ district of Poblenou, Barcelona. Our main area of expertise is the development of video games and applications for mobile devices. We have a small but highly efficient team of professionals specializing in design and programming for iPhone and Android devices.\n\nOur mission is to create innovative apps and games that address needs not currently covered by the market. To achieve this, we maintain a constant focus on the speed of production of our products without compromising quality. We seek perfection in every detail, ensuring that every app and game we develop meets the highest standards.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
