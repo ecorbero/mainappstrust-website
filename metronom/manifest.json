@@ -1,11 +1,11 @@
 {
-    "name": "ae_khronos",
-    "short_name": "ae_khronos",
+    "name": "a Metronome",
+    "short_name": "a Metronome",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A Metronom by J Dalmau",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
