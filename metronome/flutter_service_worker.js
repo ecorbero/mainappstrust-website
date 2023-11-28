@@ -3,9 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "17bb090e0a6bcaac206e8da20fb3acdb",
-"assets/AssetManifest.json": "63b9827880acc68111c4f5f0ce3b3019",
-"assets/assets/audio/243748__unfa__metronome-2khz-strong-pulse.wav": "c1c8c6d178a80938345394df9b775f2f",
+const RESOURCES = {"assets/AssetManifest.bin": "64925f752a0918ee593ca5172f9214d6",
+"assets/AssetManifest.json": "cfb98ed0f6af05d7be4c1121f1017332",
 "assets/assets/audio/metronome.mp3": "0c8c1c660d593764c01da1019b408fc0",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "d18e642c46c9c4cac8755faeae911569",
@@ -25,9 +24,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "17bb090e0a6bcaac206e8da20fb3acdb
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8bd93d1ba19fddce29ea737f309377a3",
-"/": "8bd93d1ba19fddce29ea737f309377a3",
-"main.dart.js": "bc7722f46ab8b60e2f230ac051d0a84e",
+"index.html": "82909d44418ad3e4d24d007120538240",
+"/": "82909d44418ad3e4d24d007120538240",
+"main.dart.js": "f4c36219679d64bf2210044ee795acaf",
 "manifest.json": "6e6523fc0b95d2c6a8bbd15188923ce6",
 "version.json": "0aae6fedf65b300c75e974ee73f38891"};
 // The application shell files that are downloaded before a service worker can
