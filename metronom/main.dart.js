@@ -65037,7 +65037,7 @@ $.a6x=-9007199254740992
 $.acm=A.aZ("soundMetronome")
 $.acn=A.aZ("soundNote")
 $.aoI=A.a(["Rodona","Blanca","Negra","Corxera","Semicorxera"],t.s)
-$.adv=A.a(["images/01-icon.png","images/02-icon.png","images/03-icon.png","images/04-icon.png","images/05-icon.png"],t.s)})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
+$.adv=A.a(["assets/images/01-icon.png","assets/images/02-icon.png","assets/images/03-icon.png","assets/images/04-icon.png","assets/images/05-icon.png"],t.s)})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"arp","bA",()=>{var q="navigator"
 return A.ao0(A.aif(A.xu(A.xu(self.window,q),"vendor")),B.d.a2L(A.ahl(A.xu(self.window,q))))})
 s($,"arT","cu",()=>A.ao1())
