@@ -60069,26 +60069,28 @@ if(s.cy){s.d=Date.now()
 s.cy=!1}A.Uh("metronom")
 s.f=a}},
 a1U(){this.aj(new A.SW(this))},
-S8(){var s,r,q,p,o,n,m,l=this
-if(l.f===0){l.aj(new A.SE(l))
+S8(){var s,r,q,p,o,n,m,l,k=this
+if(k.f===0){k.aj(new A.SE(k))
 return}A.Uh("note")
-s=B.f.hu(B.c.aH(6e4/B.c.aH(l.e)),l.cx)
-r=l.Q
-if(r===0){l.cy=!0
-l.Q=r+1
+s=B.f.hu(B.c.aH(6e4/B.c.aH(k.e)),k.cx)
+r=k.Q
+if(r===0){k.cy=!0
+k.Q=r+1
 return}r=Date.now()
-q=l.d
-p=r-(q===$?l.d=Date.now():q)
-if(l.cx<1)p+=1000
-r=l.Q
-o=p-s*(r-1)
-n=p-s*r
-l.Q=r+1
-m=Math.abs(n)<Math.abs(o)?n:o
-l.aj(new A.SF(l,m,Math.abs(m)))
-if(l.ay>5){l.aj(new A.SG(l))
-l.IV()}else if(l.ax>=12){l.aj(new A.SH(l))
-l.IV()}},
+q=k.d
+p=r-(q===$?k.d=Date.now():q)
+r=k.cx<1
+if(r)p+=1000
+o=k.Q
+n=p-o*s
+m=p-(o-1)*s
+if(m>800&&n>800&&r){m-=1000
+n-=1000}k.Q=o+1
+l=Math.abs(n)<Math.abs(m)?n:m
+k.aj(new A.SF(k,l,Math.abs(l)))
+if(k.ay>5){k.aj(new A.SG(k))
+k.IV()}else if(k.ax>=12){k.aj(new A.SH(k))
+k.IV()}},
 lD(a){this.cx=$.ape[a-1]
 this.aj(new A.SZ(this,a))},
 IV(){var s=this
