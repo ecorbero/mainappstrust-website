@@ -97628,7 +97628,7 @@ $.aUM=null
 $.aUN=null
 $.jj=A.b(["iPhone","iPad","Android","Tablet"],t.s)
 $.kz=function(){var s="Pro Camera Simulator",r=t.N
-return A.aC(["homePage","MAIN APPS TRUST","app_01",s,"app_02","Naik Baik, Tower Jumper","app_03","Naik Baik. Tower Jumper","app_04","Tower 4 Colors","app_05","Original Pendulum","app_06",s],r,r)}()
+return A.aC(["homePage","MAIN APPS TRUST","app_01",s,"app_02","Puzzle Impossible","app_03","Naik Baik.","app_04","Tower 4 Colors","app_05","Original Pendulum","app_06",s],r,r)}()
 $.x1=A.b(["","/puzzle_impossible","/naik_baik","/tower_4_power","/original_pendulum_art","/pro_camera_simulator"],t.s)
 $.b_P=A.aC(["dark",B.ay,"light",B.d2],t.N,A.as("vq"))
 $.aml=null
