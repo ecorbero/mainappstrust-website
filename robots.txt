@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /_ref/
+
+# Old Flutter build artefacts (remove once the static site is live)
+Disallow: /main.dart.js
+Disallow: /flutter.js
+Disallow: /flutter_bootstrap.js
+Disallow: /version.json
+
+Sitemap: https://mainappstrust.com/sitemap.xml
