@@ -7,5 +7,7 @@ Disallow: /main.dart.js
 Disallow: /flutter.js
 Disallow: /flutter_bootstrap.js
 Disallow: /version.json
+Disallow: /PO.DB
+Disallow: /po.db
 
 Sitemap: https://mainappstrust.com/sitemap.xml
