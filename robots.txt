@@ -7,7 +7,11 @@ Disallow: /main.dart.js
 Disallow: /flutter.js
 Disallow: /flutter_bootstrap.js
 Disallow: /version.json
+# Legacy root file
 Disallow: /PO.DB
 Disallow: /po.db
+
+# Legal pages are crawlable on purpose: they carry a noindex meta tag.
+# Do not add Disallow rules for them or Google can never see the noindex.
 
 Sitemap: https://mainappstrust.com/sitemap.xml
